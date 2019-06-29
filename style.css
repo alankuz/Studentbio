@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Trebuchet MS';
+    font-weight: 1400;
+    color: rgb(197, 5, 78);
+    text-align: center;
+    border: solid 3px red;
+    background-color: black;
+    padding: 20px;
+    margin: 0px;
+    
+
+    
+}
+#C1, #C3 {
+    font-family: 'Trebuchet MS';
+    float: left;
+ width: 250px;
+ padding: 10px;
+}
+#C2{
+    font-family: 'Trebuchet MS';
+    float: left;
+ width: 500px;
+ padding: 10px;
+}
+#C1 {
+    margin-left: 20px;
+    
+    
+}
